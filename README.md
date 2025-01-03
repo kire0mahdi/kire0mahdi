@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm Mahdi Hasan.
+#### Ceo & Founder of BlazingCraft Realms
+You do know who I am? nah you don't.
 
-<!--
-**MxhdiHxsn/MxhdiHxsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: UBUNTU / PYTHON / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a phishing tool with 10+ templates. 
+- 🌱 I’m currently learning **Java** & **Python**. 
+- 📫 How to reach me: noobiechipsxd@gmail.com 
+- 😄 Pronouns: **ganjatti** / *magirpola* / chonur poa 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mxhdi.hxsn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mxhdi_hxsn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/MxhdiHxsn)  [<img src='https://vectorseek.com/wp-content/uploads/2023/08/Roblox-Studio-Logo-Vector.svg-.png' alt='r' height='40'>](https://www.roblox.com/users/3854860133/profile)  
+
