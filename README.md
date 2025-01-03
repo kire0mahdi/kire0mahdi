@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Mahdi Hasan.
-#### Ceo & Founder of BlazingCraft Realms
+#### Ceo & Founder of BlazingCraft Realms.
+
 You do know who I am? nah you don't.
 
 Skills: UBUNTU / PYTHON / JS / HTML / CSS
-
 - 🔭 I’m currently working on a phishing tool with 10+ templates. 
 - 🌱 I’m currently learning **Java** & **Python**. 
 - 📫 How to reach me: noobiechipsxd@gmail.com 
